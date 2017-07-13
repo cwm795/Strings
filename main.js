@@ -1,3 +1,16 @@
+console.log("Hi");
+
+
+
+
+
+
+
+
+
+
+
+
 function reversal() {
 
 }
