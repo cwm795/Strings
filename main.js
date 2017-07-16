@@ -1,7 +1,8 @@
 console.log("Hi");
-
-
-
+let input = document.getElementById('input');
+let button = document.getElementById('button');
+let container = document.getElementById('container');
+var testString = "";
 
 
 
@@ -23,7 +24,7 @@ function palindrome() {
 
 }
 
-var testString = "";
+
 reversal(testString);
 alphabits(testString);
 palindrome(testString);
